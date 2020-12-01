@@ -5,7 +5,7 @@ This is application that will help people to list and preview news articles from
 
 
 ## Author
-David kamau
+David kamau.
 ---
 
 ## contact
