@@ -18,7 +18,7 @@ David kamau.
  python 3.8
  Git
 ## Copyright and License -->
-MIT License
+MIT License.
 Copyright (c) [2020] [David Kamau]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
