@@ -1,4 +1,4 @@
-## New-API
+## News-API
 
 ## Description
 This application enable users to store their password for different accounts for example facebook, twitter and any other account. It also enables users to craate new credentials and save them.
