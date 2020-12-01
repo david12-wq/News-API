@@ -1,7 +1,7 @@
 ## News-API
 
 ## Description
-This is application that will help people to li st and preview news articles from various sources.
+This is application that will help people to list and preview news articles from various sources.
 
 
 ## Author
